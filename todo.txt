@@ -1,0 +1,19 @@
+TODO:
+- conjugation
+    - option to see missed words
+    - option to practice only one type of verb (-ir, irregular, etc.)
+    - shows which verbs you missed
+    - can select which tenses
+    - display percentage correct per session
+
+- vocab
+    - nouns
+        - start with 100 most common nouns
+        - should include definitive article (not indefinite)
+    - prepositions
+    - adjective 
+    - adverbs
+    - conjunctive
+    - pronouns
+
+
